@@ -9,8 +9,8 @@
 <br>
 
 ## 📝 Introduction
-이곳은 **논리적 문제 해결(Algorithm)**과 **데이터 처리(SQL) 역량**을 함께 기르기 위한 학습과 성장의 기록 공간입니다.  
-**[BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)**를 통해 자동으로 커밋된 코딩테스트 문제 풀이 내역을 저장합니다.
+이곳은 논리적 문제 해결(Algorithm)과 데이터 처리(SQL) 역량을 함께 기르기 위한 학습과 성장의 기록 공간입니다.  
+[BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)를 통해 자동으로 커밋된 코딩테스트 문제 풀이 내역을 저장합니다.
 
 This repository records my journey of enhancing both **algorithmic problem-solving skills** and **SQL data handling proficiency**.  
 It archives solutions automatically committed via BaekjoonHub.
